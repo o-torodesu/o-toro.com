@@ -1,1 +1,1 @@
-# o-toro.com
+# o-toro.comをつくります。
